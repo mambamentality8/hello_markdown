@@ -29,7 +29,7 @@
 
 
 - 仓库内的图片 demo
-![](image/reba.jpg)
+![](images/reba.jpg)
 
 
 
